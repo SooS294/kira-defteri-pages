@@ -23,4 +23,4 @@ Kira Defteri ile şu işlemler yönetilebilir:
 
 ## İletişim
 
-Destek için: ceetin@gmail.com
+Destek için: [ceetin@gmail.com]
